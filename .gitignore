@@ -1,0 +1,6 @@
+/esp-idf
+/mongoose-os
+/vfs-fs-lfs
+/vfs-fs-spiffs
+env.sh
+uninstall.sh
