@@ -4,3 +4,4 @@
 /vfs-fs-spiffs
 env.sh
 uninstall.sh
+.DS_Store
