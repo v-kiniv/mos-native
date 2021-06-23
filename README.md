@@ -20,6 +20,11 @@ Permanent, add to ~/.zshrc:
 $ echo ". /<fullpath-to>/mos-native/env.sh"
 ```
 
+After env.sh was loaded, build app as usual:
+```bash
+mos build --platform esp32 --local
+```
+
 ## uninstall
 ```bash
 $ ./uninstall.sh
